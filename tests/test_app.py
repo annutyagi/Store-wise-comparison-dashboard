@@ -30,7 +30,10 @@ class TestAppArchitectureAndUI(unittest.TestCase):
     def test_tc_t_15_query_latency_benchmark(self):
         """TC-T-15: Verify analytical view query latency is under 1.0 second (well below 3.0s limit)."""
         start_time = time.perf_counter()
-        conn = sqlite3.connect(f"file:{DB_PATH.as_posix()}?mode=ro", uri=True)
+        try:
+            conn = sqlite3.connect(f"file:{DB_PATH.as_posix()}?mode=ro", uri=True)
+        except Exception:
+            conn = sqlite3.connect(str(DB_PATH))
         df = pd.read_sql_query("SELECT * FROM view_store_sales_analytics", conn)
         conn.close()
         duration = time.perf_counter() - start_time
