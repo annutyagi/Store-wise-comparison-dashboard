@@ -1,0 +1,61 @@
+product_id,product_name,category_id,category_name,sub_category,cost_price_inr,base_selling_price_inr,target_margin_pct,sku_code,is_active
+PRD-001,Noise-Cancelling Wireless Headphones,CAT-01,Electronics,Audio,3200.0,5499.0,41.8,SKU-EL-001,1
+PRD-002,True Wireless Earbuds Pro,CAT-01,Electronics,Audio,1400.0,2499.0,44.0,SKU-EL-002,1
+PRD-003,Smart Fitness Watch Ultra,CAT-01,Electronics,Wearables,2100.0,3999.0,47.5,SKU-EL-003,1
+PRD-004,Mechanical Gaming Keyboard,CAT-01,Electronics,Peripherals,1800.0,3299.0,45.4,SKU-EL-004,1
+PRD-005,Ergonomic Wireless Mouse,CAT-01,Electronics,Peripherals,650.0,1199.0,45.8,SKU-EL-005,1
+PRD-006,Fast Charging Power Bank 20000mAh,CAT-01,Electronics,Accessories,950.0,1799.0,47.2,SKU-EL-006,1
+PRD-007,4K Ultra-HD Action Camera,CAT-01,Electronics,Cameras,5200.0,8999.0,42.2,SKU-EL-007,1
+PRD-008,High-Speed USB-C Hub 7-in-1,CAT-01,Electronics,Accessories,1100.0,1999.0,45.0,SKU-EL-008,1
+PRD-009,Portable Bluetooth Speaker 20W,CAT-01,Electronics,Audio,1600.0,2899.0,44.8,SKU-EL-009,1
+PRD-010,Smart WiFi LED Desk Lamp,CAT-01,Electronics,Smart Home,850.0,1599.0,46.8,SKU-EL-010,1
+PRD-011,Dual Band WiFi 6 Router,CAT-01,Electronics,Networking,2400.0,4299.0,44.2,SKU-EL-011,1
+PRD-012,1080p Full HD Webcam with Mic,CAT-01,Electronics,Peripherals,1250.0,2299.0,45.6,SKU-EL-012,1
+PRD-013,Slim Fit Cotton Formal Shirt,CAT-02,Apparel,Menswear,650.0,1499.0,56.6,SKU-AP-013,1
+PRD-014,Classic Indigo Denim Jeans,CAT-02,Apparel,Menswear,850.0,1999.0,57.5,SKU-AP-014,1
+PRD-015,Embroidered Anarkali Kurti,CAT-02,Apparel,Womenswear,750.0,1799.0,58.3,SKU-AP-015,1
+PRD-016,Handloom Cotton Saree,CAT-02,Apparel,Ethnic,1200.0,2899.0,58.6,SKU-AP-016,1
+PRD-017,Breathable Running Track Pants,CAT-02,Apparel,Activewear,550.0,1299.0,57.7,SKU-AP-017,1
+PRD-018,Dry-Fit Athletic Gym T-Shirt,CAT-02,Apparel,Activewear,380.0,899.0,57.7,SKU-AP-018,1
+PRD-019,Chinos Casual Stretch Trousers,CAT-02,Apparel,Menswear,780.0,1849.0,57.8,SKU-AP-019,1
+PRD-020,Floral Printed Summer Maxi Dress,CAT-02,Apparel,Womenswear,920.0,2199.0,58.2,SKU-AP-020,1
+PRD-021,Pure Wool Winter Pullover,CAT-02,Apparel,Winterwear,1100.0,2599.0,57.7,SKU-AP-021,1
+PRD-022,Kids Organic Cotton Casual Set,CAT-02,Apparel,Kidswear,420.0,999.0,58.0,SKU-AP-022,1
+PRD-023,Structured Blazer Slim Fit,CAT-02,Apparel,Formalwear,2100.0,4999.0,58.0,SKU-AP-023,1
+PRD-024,Festive Silk Blend Kurta Pajama,CAT-02,Apparel,Ethnic,1300.0,2999.0,56.7,SKU-AP-024,1
+PRD-025,Organic Royal Basmati Rice 5kg,CAT-03,Groceries,Staples,480.0,649.0,26.0,SKU-GR-025,1
+PRD-026,Cold Pressed Mustard Oil 1L,CAT-03,Groceries,Cooking Oil,140.0,195.0,28.2,SKU-GR-026,1
+PRD-027,Desi Cow Ghee A2 500ml,CAT-03,Groceries,Dairy,420.0,580.0,27.6,SKU-GR-027,1
+PRD-028,Unpolished Toor Dal 1kg,CAT-03,Groceries,Staples,115.0,155.0,25.8,SKU-GR-028,1
+PRD-029,Premium California Almonds 500g,CAT-03,Groceries,Dry Fruits,380.0,520.0,26.9,SKU-GR-029,1
+PRD-030,Roasted Cashews Salted 250g,CAT-03,Groceries,Dry Fruits,220.0,310.0,29.0,SKU-GR-030,1
+PRD-031,Organic Wild Raw Honey 500g,CAT-03,Groceries,Sweeteners,240.0,340.0,29.4,SKU-GR-031,1
+PRD-032,Assam Orthodox Tea Leaf 500g,CAT-03,Groceries,Beverages,190.0,275.0,30.9,SKU-GR-032,1
+PRD-033,Filter Coffee Ground Roasted 250g,CAT-03,Groceries,Beverages,145.0,210.0,31.0,SKU-GR-033,1
+PRD-034,Multigrain Atta Flour 5kg,CAT-03,Groceries,Staples,220.0,295.0,25.4,SKU-GR-034,1
+PRD-035,Organic Green Cardamom 100g,CAT-03,Groceries,Spices,280.0,395.0,29.1,SKU-GR-035,1
+PRD-036,Dark Chocolate Cocoa Bar 100g,CAT-03,Groceries,Snacks,95.0,145.0,34.5,SKU-GR-036,1
+PRD-037,Double Bed Comforter All-Season,CAT-04,Home Goods,Bedding,1250.0,2499.0,50.0,SKU-HO-037,1
+PRD-038,Egyptian Cotton 300TC Bed Sheet,CAT-04,Home Goods,Bedding,850.0,1799.0,52.8,SKU-HO-038,1
+PRD-039,Non-Stick Tri-Ply Kadai 2.5L,CAT-04,Home Goods,Cookware,980.0,1999.0,51.0,SKU-HO-039,1
+PRD-040,Stainless Steel Knife Set 5-Piece,CAT-04,Home Goods,Kitchenware,540.0,1149.0,53.0,SKU-HO-040,1
+PRD-041,Automatic Electric Kettle 1.8L,CAT-04,Home Goods,Small Appliances,620.0,1299.0,52.3,SKU-HO-041,1
+PRD-042,Memory Foam Ergonomic Pillow,CAT-04,Home Goods,Bedding,680.0,1449.0,53.1,SKU-HO-042,1
+PRD-043,Ceramic Dinnerware Set 18-Piece,CAT-04,Home Goods,Tableware,1650.0,3499.0,52.8,SKU-HO-043,1
+PRD-044,Microfiber Bath Towel Set 4-Piece,CAT-04,Home Goods,Bath,420.0,899.0,53.3,SKU-HO-044,1
+PRD-045,Aroma Essential Oil Diffuser 500ml,CAT-04,Home Goods,Decor,750.0,1599.0,53.1,SKU-HO-045,1
+PRD-046,Insulated Stainless Water Bottle 1L,CAT-04,Home Goods,Kitchenware,380.0,799.0,52.4,SKU-HO-046,1
+PRD-047,Cast Iron Skillet Pre-Seasoned 10-inch,CAT-04,Home Goods,Cookware,720.0,1499.0,52.0,SKU-HO-047,1
+PRD-048,Storage Basket Fabric Foldable Set,CAT-04,Home Goods,Storage,310.0,699.0,55.7,SKU-HO-048,1
+PRD-049,Mesh Breathable Running Shoes,CAT-05,Footwear,Sports,950.0,2199.0,56.8,SKU-FO-049,1
+PRD-050,Genuine Leather Formal Derby Shoes,CAT-05,Footwear,Formal,1450.0,3299.0,56.0,SKU-FO-050,1
+PRD-051,Cushioned Casual Walking Loafers,CAT-05,Footwear,Casual,780.0,1799.0,56.6,SKU-FO-051,1
+PRD-052,Lightweight EVA Sliders Comfort,CAT-05,Footwear,Casual,280.0,649.0,56.9,SKU-FO-052,1
+PRD-053,Orthopedic Support Daily Sandals,CAT-05,Footwear,Casual,520.0,1199.0,56.6,SKU-FO-053,1
+PRD-054,Ankle High Trekking Boots,CAT-05,Footwear,Outdoor,1650.0,3799.0,56.6,SKU-FO-054,1
+PRD-055,Classic White Canvas Sneakers,CAT-05,Footwear,Casual,620.0,1399.0,55.7,SKU-FO-055,1
+PRD-056,Ethnic Embroidered Mojaris Juttis,CAT-05,Footwear,Ethnic,490.0,1099.0,55.4,SKU-FO-056,1
+PRD-057,Slip-On Memory Foam Work Shoes,CAT-05,Footwear,Formal,1100.0,2499.0,56.0,SKU-FO-057,1
+PRD-058,Waterproof Monsoon Rain Sandals,CAT-05,Footwear,Monsoon,340.0,799.0,57.4,SKU-FO-058,1
+PRD-059,High Grip Court Badminton Shoes,CAT-05,Footwear,Sports,1250.0,2799.0,55.3,SKU-FO-059,1
+PRD-060,Soft Fur Lined Winter Slippers,CAT-05,Footwear,Indoor,310.0,699.0,55.7,SKU-FO-060,1
