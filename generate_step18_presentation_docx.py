@@ -70,7 +70,7 @@ def create_presentation_docx(filename):
         ("Student Author", "Anu Tyagi (Roll 2500320140025)", "Academic Degree", "MCA 2nd Year (Data Analytics)"),
         ("Faculty Mentor", "Mr. Dinesh", "Institution", "ABES Engineering College, Ghaziabad"),
         ("Total Slides", "11 Slides (16:9 Widescreen)", "Presentation Time", "5 Minutes (30 Seconds / Slide)"),
-        ("PowerPoint File", "docs/2500320140025_Presentation.pptx", "Live App URL", "store-wise-comparison-dashboard.streamlit.app")
+        ("PowerPoint File", "docs/2500320140025_Presentation.pptx", "Live App URL", "store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app")
     ]
     for row_idx, data in enumerate(ctrl_data):
         row = ctrl_table.rows[row_idx]
@@ -102,7 +102,7 @@ def create_presentation_docx(filename):
              "Faculty Project Mentor: Mr. Dinesh",
              "Project Title: Store Wise Sales Comparison Dashboard (Enterprise Retail BI Platform)",
              "Public GitHub Repository: https://github.com/annutyagi/Store-wise-comparison-dashboard",
-             "Live Streamlit Web Application: https://store-wise-comparison-dashboard.streamlit.app"
+             "Live Streamlit Web Application: https://store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app/"
          ],
          "Good morning respected mentor and examiners. I am Anu Tyagi, Roll 2500320140025, MCA 2nd Year student at ABES Engineering College. Today I am presenting my Capstone project: Store Wise Sales Comparison Dashboard, an enterprise retail business intelligence system developed under the guidance of Mr. Dinesh. The complete source code and live application are accessible on GitHub and Streamlit Cloud."),
 
@@ -207,7 +207,7 @@ def create_presentation_docx(filename):
 
         (11, "Live Demo & Artifacts", "Live Demonstration & Project Artifacts",
          [
-             "Live Streamlit Web Application: https://store-wise-comparison-dashboard.streamlit.app",
+             "Live Streamlit Web Application: https://store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app/",
              "GitHub Source Code Repository: https://github.com/annutyagi/Store-wise-comparison-dashboard",
              "Master Documentation Artifact: docs/2500320140025_Project_Document.docx (Complete 10-Section Capstone Report)",
              "Full Requirements Traceability: docs/04_Traceability_Matrix.xlsx (100% Bidirectional Coverage)",
@@ -271,7 +271,7 @@ def create_presentation_docx(filename):
     doc.add_heading(level=1).add_run("2. 5-Minute Viva Rehearsal Strategy & Examiners Guide").font.color.rgb = COLOR_PRIMARY
     tips = [
         ("Timing Discipline", "Spend strictly 25-30 seconds per slide. Slides 1-3 establish context (1.5 min), Slides 4-7 present technical architecture (1.5 min), and Slides 8-11 demonstrate empirical proof and live demo (2 min)."),
-        ("Live Demonstration Transition", "At Slide 11, transition seamlessly to the open browser tab running store-wise-comparison-dashboard.streamlit.app. Demonstrate the multi-store filter, date range slider, and CSV download button."),
+        ("Live Demonstration Transition", "At Slide 11, transition seamlessly to the open browser tab running store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app. Demonstrate the multi-store filter, date range slider, and CSV download button."),
         ("Verification Proof", "Keep terminal open running 'python run_tests.py' showing 15/15 tests passing in 0.065 seconds as tangible proof of engineering quality."),
         ("Defense of Metrics", "When asked about Sales Velocity per SqFt or Welch's t-test, reference the exact mathematical formulations (BURL-04, Welch-Satterthwaite equation) from the Master Project Document.")
     ]

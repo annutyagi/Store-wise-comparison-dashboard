@@ -70,7 +70,7 @@ def create_deployment_guide_docx(filename):
         ("Student Author", "Anu Tyagi (Roll 2500320140025)", "Academic Degree", "MCA 2nd Year (Data Analytics)"),
         ("Faculty Mentor", "Mr. Dinesh", "Institution", "ABES Engineering College, Ghaziabad"),
         ("Version / Status", "v1.0 / Production Cloud Ready", "Date of Release", "November 20, 2026"),
-        ("Deployment Target", "Streamlit Community Cloud", "Public App URL", "store-wise-comparison-dashboard.streamlit.app")
+        ("Deployment Target", "Streamlit Community Cloud", "Public App URL", "store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app")
     ]
     for row_idx, data in enumerate(ctrl_data):
         row = ctrl_table.rows[row_idx]
@@ -186,7 +186,7 @@ def create_deployment_guide_docx(filename):
          "3. Set Repository: <username>/2500320140025-store-wise-sales\n"
          "4. Set Branch: main\n"
          "5. Set Main file path: app.py\n"
-         "6. Set Custom App URL: store-wise-comparison-dashboard.streamlit.app\n"
+         "6. Set Custom App URL: store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app\n"
          "7. Under 'Advanced settings', confirm Python version is set to 3.12 (or 3.11+)."),
         ("Step 4: Deploy & Build Log Monitoring",
          "1. Click the 'Deploy!' button.\n"

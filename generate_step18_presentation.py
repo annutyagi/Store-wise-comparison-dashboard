@@ -19,7 +19,7 @@ def build_presentation(output_path):
                 "Faculty Project Mentor: Mr. Dinesh",
                 "Academic Institution: ABES Engineering College, Ghaziabad",
                 "GitHub Repository: github.com/annutyagi/Store-wise-comparison-dashboard",
-                "Live Streamlit Application: store-wise-comparison-dashboard.streamlit.app"
+                "Live Streamlit Application: store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app"
             ],
             "notes": "Good morning respected mentor and examiners. I am Anu Tyagi, Roll 2500320140025, MCA 2nd Year student at ABES Engineering College. Today I am presenting my Capstone project: Store Wise Sales Comparison Dashboard, an enterprise retail business intelligence system developed under the guidance of Mr. Dinesh. The complete source code and live application are accessible on GitHub and Streamlit Cloud."
         },
@@ -164,7 +164,7 @@ def build_presentation(output_path):
             "title": "Live Demonstration & Project Artifacts",
             "category": "ABES MCA Capstone Project Evaluation | Academic Year 2026-2027",
             "bullets": [
-                "Live Streamlit Web Application: https://store-wise-comparison-dashboard.streamlit.app",
+                "Live Streamlit Web Application: https://store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app/",
                 "GitHub Source Code Repository: https://github.com/annutyagi/Store-wise-comparison-dashboard",
                 "Master Documentation Artifact: docs/2500320140025_Project_Document.docx (Complete 10-Section Capstone Report)",
                 "Full Requirements Traceability: docs/04_Traceability_Matrix.xlsx (100% Bidirectional Coverage)",

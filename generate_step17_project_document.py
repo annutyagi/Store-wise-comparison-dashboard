@@ -90,7 +90,7 @@ def create_project_document(filename):
         ("Faculty Project Mentor", "Mr. Dinesh"),
         ("Institutional Affiliation", "ABES Engineering College, Ghaziabad"),
         ("Public GitHub Repository", "https://github.com/annutyagi/Store-wise-comparison-dashboard"),
-        ("Live Streamlit Cloud URL", "https://store-wise-comparison-dashboard.streamlit.app")
+        ("Live Streamlit Cloud URL", "https://store-wise-comparison-dashboard-tfgpqzxbwqggso9wax3wfm.streamlit.app/")
     ]
     for r_idx, (fld, val) in enumerate(cov_data):
         row = cov_table.rows[r_idx]
